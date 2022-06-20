@@ -6,3 +6,8 @@ function chooseWordArr() {
 }
 
 chooseWordArr(words)
+
+function changeImg() {
+    document.getElementById("imger").src="/img/2.png"
+}
+
